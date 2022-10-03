@@ -7,9 +7,10 @@
 
 const path = require('path');
 
-const uuidv4 = require('uuid/v4');
+const uuid = require('uuid');
 const {flatten} = require('lodash');
 
+const babelConfig = require('./babel.config.json');
 const makeBrowsers = require('./browsers-ng');
 /* eslint-disable global-require */
 
@@ -70,11 +71,7 @@ function makeConfig(packageName, argv) {
       watch: argv && argv.karmaDebug,
       extensions: ['.ts', '.js'],
       transform: [
-        ['babelify', {
-          extensions: ['.ts', '.js'],
-          global: true,
-          ignore: ['node_modules'],
-        }],
+        ['babelify', babelConfig],
         'envify'
       ]
     },
@@ -167,7 +164,7 @@ function makeConfig(packageName, argv) {
     cfg.sauceLabs = {
       build: process.env.BUILD_NUMBER || `local-${process.env.USER}-${packageName}-${Date.now()}`,
       testName: `${pkg.name || packageName} (karma)`,
-      tunnelIdentifier: process.env.SC_TUNNEL_IDENTIFIER || uuidv4(),
+      tunnelIdentifier: process.env.SC_TUNNEL_IDENTIFIER || uuid.v4(),
       recordScreenshots: true,
       recordVideo: true,
       public: 'team',
