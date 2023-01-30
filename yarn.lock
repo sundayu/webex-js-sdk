@@ -4119,7 +4119,7 @@ __metadata:
     es6-promise-series: "npm:^0.2.2"
     lodash: "npm:^4.17.21"
     sinon: "npm:^9.2.4"
-    uuid: "npm:^3.3.2"
+    uuid: "npm:^9.0.0"
   languageName: unknown
   linkType: soft
 
@@ -4139,7 +4139,7 @@ __metadata:
     btoa: "npm:^1.2.1"
     lodash: "npm:^4.17.21"
     sinon: "npm:^9.2.4"
-    uuid: "npm:^3.3.2"
+    uuid: "npm:^9.0.0"
   languageName: unknown
   linkType: soft
 
@@ -4165,7 +4165,7 @@ __metadata:
     lodash: "npm:^4.17.21"
     node-scr: "npm:^0.3.0"
     sinon: "npm:^9.2.4"
-    uuid: "npm:^3.3.2"
+    uuid: "npm:^9.0.0"
   languageName: unknown
   linkType: soft
 
@@ -4201,7 +4201,7 @@ __metadata:
     "@webex/test-helper-mock-webex": "workspace:^"
     "@webex/webex-core": "workspace:^"
     lodash: "npm:^4.17.21"
-    uuid: "npm:^3.3.2"
+    uuid: "npm:^9.0.0"
   languageName: unknown
   linkType: soft
 
@@ -4220,7 +4220,7 @@ __metadata:
     "@webex/webex-core": "workspace:^"
     lodash: "npm:^4.17.21"
     sinon: "npm:^9.2.4"
-    uuid: "npm:^3.3.2"
+    uuid: "npm:^9.0.0"
   languageName: unknown
   linkType: soft
 
@@ -4251,7 +4251,7 @@ __metadata:
     pkijs: "npm:^2.1.84"
     safe-buffer: "npm:^5.2.0"
     sinon: "npm:^9.2.4"
-    uuid: "npm:^3.3.2"
+    uuid: "npm:^9.0.0"
     valid-url: "npm:^1.0.9"
   languageName: unknown
   linkType: soft
@@ -4310,7 +4310,7 @@ __metadata:
     "@webex/test-helper-mock-webex": "workspace:^"
     "@webex/webex-core": "workspace:^"
     lodash: "npm:^4.17.21"
-    uuid: "npm:^3.3.2"
+    uuid: "npm:^9.0.0"
   languageName: unknown
   linkType: soft
 
@@ -4333,7 +4333,7 @@ __metadata:
     "@webex/webex-core": "workspace:^"
     bowser: "npm:^2.11.0"
     sinon: "npm:^9.2.4"
-    uuid: "npm:^3.3.2"
+    uuid: "npm:^9.0.0"
   languageName: unknown
   linkType: soft
 
@@ -4358,7 +4358,7 @@ __metadata:
     backoff: "npm:^2.5.0"
     lodash: "npm:^4.17.21"
     sinon: "npm:^9.2.4"
-    uuid: "npm:^3.3.2"
+    uuid: "npm:^9.0.0"
     ws: "npm:^8.2.2"
   languageName: unknown
   linkType: soft
@@ -4410,7 +4410,7 @@ __metadata:
     "@webex/test-helper-test-users": "workspace:^"
     "@webex/webex-core": "workspace:^"
     lodash: "npm:^4.17.21"
-    uuid: "npm:^3.3.2"
+    uuid: "npm:^9.0.0"
   languageName: unknown
   linkType: soft
 
@@ -4427,7 +4427,7 @@ __metadata:
     "@webex/test-helper-test-users": "workspace:^"
     "@webex/webex-core": "workspace:^"
     lodash: "npm:^4.17.21"
-    uuid: "npm:^3.3.2"
+    uuid: "npm:^9.0.0"
   languageName: unknown
   linkType: soft
 
@@ -4447,7 +4447,7 @@ __metadata:
     "@webex/webex-core": "workspace:^"
     lodash: "npm:^4.17.21"
     sinon: "npm:^9.2.4"
-    uuid: "npm:^3.3.2"
+    uuid: "npm:^9.0.0"
   languageName: unknown
   linkType: soft
 
@@ -4464,7 +4464,7 @@ __metadata:
     "@webex/webex-core": "workspace:^"
     lodash: "npm:^4.17.21"
     sinon: "npm:^9.2.4"
-    uuid: "npm:^3.3.2"
+    uuid: "npm:^9.0.0"
   languageName: unknown
   linkType: soft
 
@@ -4481,7 +4481,7 @@ __metadata:
     "@webex/test-helper-mock-webex": "workspace:^"
     "@webex/webex-core": "workspace:^"
     sinon: "npm:^9.2.4"
-    uuid: "npm:^3.3.2"
+    uuid: "npm:^9.0.0"
   languageName: unknown
   linkType: soft
 
@@ -4548,7 +4548,7 @@ __metadata:
     crypto-js: "npm:^4.1.1"
     lodash: "npm:^4.17.21"
     sinon: "npm:^9.2.4"
-    uuid: "npm:^3.3.2"
+    uuid: "npm:^9.0.0"
   languageName: unknown
   linkType: soft
 
@@ -4571,7 +4571,7 @@ __metadata:
     "@webex/webex-core": "workspace:^"
     lodash: "npm:^4.17.21"
     sinon: "npm:^9.2.4"
-    uuid: "npm:^3.3.2"
+    uuid: "npm:^9.0.0"
   languageName: unknown
   linkType: soft
 
@@ -4589,7 +4589,7 @@ __metadata:
     "@webex/test-helper-test-users": "workspace:^"
     "@webex/webex-core": "workspace:^"
     sinon: "npm:^9.2.4"
-    uuid: "npm:^3.3.2"
+    uuid: "npm:^9.0.0"
   languageName: unknown
   linkType: soft
 
@@ -4616,7 +4616,7 @@ __metadata:
     "@webex/test-helper-chai": "workspace:^"
     "@webex/webex-core": "workspace:^"
     lodash: "npm:^4.17.21"
-    uuid: "npm:^3.3.2"
+    uuid: "npm:^9.0.0"
   languageName: unknown
   linkType: soft
 
@@ -4670,7 +4670,7 @@ __metadata:
     sdp-transform: "npm:^2.12.0"
     sinon: "npm:^9.2.4"
     typescript: "npm:^4.7.4"
-    uuid: "npm:^3.3.2"
+    uuid: "npm:^9.0.0"
     webrtc-adapter: "npm:^7.7.0"
   languageName: unknown
   linkType: soft
@@ -4885,7 +4885,7 @@ __metadata:
     express: "npm:^4.17.1"
     jsonwebtoken: "npm:^8.5.1"
     safe-buffer: "npm:^5.2.0"
-    uuid: "npm:^3.3.2"
+    uuid: "npm:^9.0.0"
     whatwg-fetch: "npm:^2.0.4"
   languageName: unknown
   linkType: soft
@@ -4992,7 +4992,7 @@ __metadata:
     multer: "npm:^1.4.2"
     request: "npm:^2.88.0"
     urlsafe-base64: "npm:^1.0.0"
-    uuid: "npm:^3.3.2"
+    uuid: "npm:^9.0.0"
   languageName: unknown
   linkType: soft
 
@@ -5022,7 +5022,7 @@ __metadata:
     chai-as-promised: "npm:^7.1.1"
     lodash: "npm:^4.17.21"
     node-random-name: "npm:^1.0.1"
-    uuid: "npm:^3.3.2"
+    uuid: "npm:^9.0.0"
   languageName: unknown
   linkType: soft
 
@@ -5068,7 +5068,7 @@ __metadata:
     jsonwebtoken: "npm:^8.5.1"
     lodash: "npm:^4.17.21"
     sinon: "npm:^9.2.4"
-    uuid: "npm:^3.3.2"
+    uuid: "npm:^9.0.0"
   languageName: unknown
   linkType: soft
 
@@ -5111,7 +5111,7 @@ __metadata:
     request-id: "npm:^0.11.1"
     response-time: "npm:^2.3.2"
     supertest: "npm:^3.4.2"
-    uuid: "npm:^3.3.2"
+    uuid: "npm:^9.0.0"
   bin:
     webex-server: ./bin/webex-server
   languageName: unknown
@@ -22757,7 +22757,7 @@ __metadata:
     standard-version: "npm:^9.1.1"
     terser-webpack-plugin: "npm:^4.2.3"
     typescript: "npm:^4.7.4"
-    uuid: "npm:^3.3.2"
+    uuid: "npm:^9.0.0"
     wd: "npm:^1.14.0"
     wdio-chromedriver-service: "npm:^7.3.2"
     wdio-geckodriver-service: "npm:^2.1.1"
